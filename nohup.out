@@ -1,0 +1,5 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @Matematikaquesbot id=7864929753 - 'Matematika'
+WARNING:aiogram.dispatcher:Received SIGTERM signal
+INFO:aiogram.dispatcher:Polling stopped for bot @Matematikaquesbot id=7864929753 - 'Matematika'
+INFO:aiogram.dispatcher:Polling stopped
